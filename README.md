@@ -1,4 +1,4 @@
-# Display Power BI Images in a React Frontend Using CLI & REST API**
+# Display Power BI Images in a React Frontend Using CLI & REST API
 
 In this tutorial, we will:
 1. **Create a free Power BI account**.
