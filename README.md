@@ -224,4 +224,4 @@ Now open `http://localhost:3000`, and the Power BI image should update every **1
 
 ---
 
-🚀 **Now, you have a live Power BI image updating in a React frontend!** 🚀
+ **Now, you have a live Power BI image updating in a React frontend!**
